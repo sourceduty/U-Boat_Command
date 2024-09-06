@@ -12,6 +12,7 @@ In addition to launching torpedoes, the simulator also includes options for abor
 
 #
 
+```
 +----------------------------------------+-----------------------+
 |            U-2023 Submarine            |                       |
 |             Command System             |          (N)          |
@@ -26,6 +27,7 @@ In addition to launching torpedoes, the simulator also includes options for abor
 |----------------------------------------+-----------------------+
 |                                        |                       |
 +----------------------------------------+-----------------------+
+```
 
 #
 
