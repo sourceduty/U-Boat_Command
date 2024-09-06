@@ -12,6 +12,23 @@ In addition to launching torpedoes, the simulator also includes options for abor
 
 #
 
++----------------------------------------+-----------------------+
+|            U-2023 Submarine            |                       |
+|             Command System             |          (N)          |
+|----------------------------------------|           |           |
+|                                        |      NW --+-- NE      |
+|                                        |       |       |       |
+|       Initializing Systems...          |   (W)--+--+--+--(E)   |
+|     Loading Torpedo Control Panel      |       |       |       |
+|                                        |      SW --+-- SE      |
+|                                        |           |           |
+|                                        |          (S)          |
+|----------------------------------------+-----------------------+
+|                                        |                       |
++----------------------------------------+-----------------------+
+
+#
+
 ![Submarine](https://github.com/user-attachments/assets/be6da77f-fe51-4307-ada5-cbdb153da9d6)
 
 #
