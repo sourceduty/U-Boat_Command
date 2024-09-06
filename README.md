@@ -8,7 +8,11 @@
 
 The GPT maintains a formal, commanding tone to enhance the feeling of being in a submarine control room, with the goal of keeping players engaged in the role of a submarine commander. The interface is reminiscent of a control panel one might find on a real submarine, with directional indicators (N, NE, S, etc.) for targeting, and clear options for managing torpedoes. Commands are executed step by step, allowing users to prepare a torpedo for launch through a structured sequence of actions, such as setting the depth, speed, and target direction.
 
-In addition to launching torpedoes, the simulator also includes options for aborting launches and running system diagnostics to check the status of critical submarine functions, including engines, sensors, and torpedoes. This custom GPT is designed to be an engaging and interactive simulation experience, offering a blend of tactical decision-making and technical operation, all within the context of submarine warfare. 
+In addition to launching torpedoes, the simulator also includes options for aborting launches and running system diagnostics to check the status of critical submarine functions, including engines, sensors, and torpedoes. This custom GPT is designed to be an engaging and interactive simulation experience, offering a blend of tactical decision-making and technical operation, all within the context of submarine warfare.
+
+#
+
+![Submarine](https://github.com/user-attachments/assets/be6da77f-fe51-4307-ada5-cbdb153da9d6)
 
 #
 ### Related Links
