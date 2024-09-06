@@ -24,9 +24,27 @@ In addition to launching torpedoes, the simulator also includes options for abor
 |                                        |      SW --+-- SE      |
 |                                        |           |           |
 |                                        |          (S)          |
+|                                        |                       |
 |----------------------------------------+-----------------------+
 |                                        |                       |
 +----------------------------------------+-----------------------+
+
++----------------------------------------+-----------------------+
+| U-2023     Torpedo Control Terminal    |                       |
+|----------------------------------------|          (N)          |
+| 1. Load Torpedo                        |           |           |
+| 2. Set Target Coordinates              |      NW --+-- NE      |
+| 3. Adjust Torpedo Speed                |       |       |       |
+| 4. Set Torpedo Depth                   |   (W)--+--+--+--(E)   |
+| 5. Arm Torpedo                         |       |       |       |
+| 6. Launch Torpedo                      |      SW --+-- SE      |
+| 7. Abort Launch                        |           |           |
+| 8. System Diagnostics                  |          (S)          |
+| 9. Exit Control Panel                  |                       |
+|----------------------------------------+-----------------------+
+| Enter Command Number:                  |                       |
++----------------------------------------+-----------------------+
+
 ```
 
 #
